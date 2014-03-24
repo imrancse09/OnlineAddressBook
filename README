@@ -1,0 +1,1 @@
+This is a project named OnlineAddressBook. It is created with spring+JPA. Any logged in user can create a VCard, show vCards, update/delete a card, import/export a card.
